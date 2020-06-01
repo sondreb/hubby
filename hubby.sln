@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30104.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hubby", "src\hubby\hubby.csproj", "{CA918456-1A66-4709-AE31-ADA8DC9A3B13}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hubby.gateway", "src\hubby.gateway\hubby.gateway.csproj", "{34370581-A085-46B7-8D54-90C785A0D584}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA918456-1A66-4709-AE31-ADA8DC9A3B13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA918456-1A66-4709-AE31-ADA8DC9A3B13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA918456-1A66-4709-AE31-ADA8DC9A3B13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA918456-1A66-4709-AE31-ADA8DC9A3B13}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34370581-A085-46B7-8D54-90C785A0D584}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34370581-A085-46B7-8D54-90C785A0D584}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34370581-A085-46B7-8D54-90C785A0D584}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34370581-A085-46B7-8D54-90C785A0D584}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {254D979E-FA28-4961-A6F2-06FAB0958553}
+	EndGlobalSection
+EndGlobal
